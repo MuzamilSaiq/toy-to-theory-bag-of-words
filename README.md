@@ -4,7 +4,7 @@ A concise pedagogical walkthrough of Bag-of-Words—from toy intuition to a full
 ### What's Inside
 - Tokenization & vocabulary construction
 - Bag-of-Words counts and feature vectors
-- Pure-Python implementation (fast and transparent)
+- Pure-Python implementation
 - Comparison with scikit-learn’s `CountVectorizer`
 
 ### Requirements
