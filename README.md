@@ -13,12 +13,12 @@ A concise pedagogical walkthrough of Bag-of-Words—from toy intuition to a full
 - NumPy
 
 ### References
-- Douglas Smith, Maurice Eggen, Richard St. Andre — *A Transition to Advanced Mathematics*
-- Walter Rudin — *Principles of Mathematical Analysis*
-- William L. Briggs, Lyle Cochran, Bernard Gillett, Eric Schulz — *Calculus: Early Transcendentals*
-- Jay Cummings — *Real Analysis: A Long-Form Mathematics Textbook*
-- Aurélien Géron — *Hands-On Machine Learning*
-- Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani — *An Introduction to Statistical Learning with Applications in Python*
+- Douglas Smith, Maurice Eggen, Richard St. Andre. *A Transition to Advanced Mathematics*
+- Walter Rudin. *Principles of Mathematical Analysis*
+- William L. Briggs, Lyle Cochran, Bernard Gillett, Eric Schulz. *Calculus: Early Transcendentals*
+- Jay Cummings. *Real Analysis: A Long-Form Mathematics Textbook*
+- Aurélien Géron. *Hands-On Machine Learning*
+- Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. *An Introduction to Statistical Learning with Applications in Python*
 - Dataset adapted from the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 
