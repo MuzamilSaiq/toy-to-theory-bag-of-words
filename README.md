@@ -18,6 +18,7 @@ A concise pedagogical walkthrough of Bag-of-Words, from toy intuition to a fully
 - William L. Briggs, Lyle Cochran, Bernard Gillett, Eric Schulz. *Calculus: Early Transcendentals*
 - Jay Cummings. *Real Analysis: A Long-Form Mathematics Textbook*
 - Aurélien Géron. *Hands-On Machine Learning*
+- Jacob Eisenstein. *Introduction to Natural Language Processing*
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. *An Introduction to Statistical Learning with Applications in Python*
 - Dataset adapted from the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
