@@ -1,5 +1,5 @@
 # toy-to-theory-bag-of-words
-A concise pedagogical walkthrough of Bag-of-Words—from toy intuition to a fully working text-vectorization pipeline. Built from scratch to show how raw text becomes numerical features for machine-learning models.
+A concise pedagogical walkthrough of Bag-of-Words, from toy intuition to a fully working text-vectorization pipeline. Built from scratch to show how raw text becomes numerical features for machine-learning models.
 
 ### What's Inside
 - Tokenization & vocabulary construction
